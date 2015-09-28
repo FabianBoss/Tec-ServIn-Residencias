@@ -1,6 +1,6 @@
 {
-  "name": "base",
-  "description": "proyecto de base para las tareas",
+  "name": "residencias",
+  "description": "website sobre proyecto de residencas",
   "version": "1.0.0",
   "main": "dist/js/app.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FabianBoss/Tec-ServIn-Base.git"
+    "url": "git+https://github.com/FabianBoss/Tec-ServIn-Residencias.git"
   },
   "author": "FabianBoss",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FabianBoss/Tec-ServIn-Base/issues"
+    "url": "https://github.com/FabianBoss/Tec-ServIn-Residencias/issues"
   },
-  "homepage": "https://github.com/FabianBoss/Tec-ServIn-Base#readme",
+  "homepage": "https://github.com/FabianBoss/Tec-ServIn-Residencias#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-jade": "^1.1.0",

@@ -1,5 +1,3 @@
-# Base
+# Residencias
 
-Este proyecto servirá de **base** para las tareas del curso de Servicios de Internet.
-
-:)
+WebSite sonbre qué tipo de proyecto me gustaría realizar en mis resicencias.

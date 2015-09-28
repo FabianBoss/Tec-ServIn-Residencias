@@ -359,10 +359,13 @@ main {
   font-style: normal; }
 
 body {
-  background-color: #EEE; }
+  background-color: #F2CED9; }
+
+h2 {
+  color: #333; }
 
 .Header {
-  background-color: #c8c8c8;
+  background-color: #e292aa;
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.2); }
   .Header__tittle {
     font-family: lobster-two; }
